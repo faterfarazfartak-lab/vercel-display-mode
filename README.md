@@ -26,4 +26,4 @@ This project is intended for testing and educational purposes only.
 Ensure compliance with your platform provider’s policies and applicable
 laws when deploying and using this code.
 
-اینطوری:
+ا
